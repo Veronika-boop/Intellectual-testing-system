@@ -1,0 +1,11 @@
+class Admin:
+    def allocation_roles():
+    def block_user():
+    def regain_access():
+    def watch_questions():
+    def create_new_ques():
+    def edit_question():
+    def close_group():
+    def export_questions():
+    def import_in_system():
+    def delete_question():
